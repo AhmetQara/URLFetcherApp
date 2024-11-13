@@ -48,7 +48,7 @@ URL Fetcher App is a tool that fetches a list of URLs from various sources, incl
 
 Example:
 ```bash
-python Ghost_fetch.py -d example.com -o urls.txt -f js
+python Ghost_fetch.py -d testphp.vulnweb.com -o urls.txt -f js/pdf/html/docx/exc/env
 ```
 <p align="center">
 <img src="screenshot.png" alt="JS_Scanner"/>
