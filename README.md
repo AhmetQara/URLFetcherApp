@@ -1,5 +1,5 @@
 
-# 🔥 URL Fetcher App
+# ➤ URL Fetcher App
 
 URL Fetcher App is a tool that fetches a list of URLs from various sources, including OTX, Wayback Machine, Common Crawl, and URLScan. This tool is useful for gathering domain-related information and filtering valid URLs with a 200 OK status.
 
@@ -54,7 +54,7 @@ python Ghost_fetch.py -d example.com -o urls.txt -f js
 <img src="screenshot.png" alt="JS_Scanner"/>
 </p>
 
-## Example Output
+## 💰 Example Output
 ```bash
 >>==============================================================<<
 |   ____ _               _     _____    _       _                |
