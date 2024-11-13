@@ -74,3 +74,8 @@ python Ghost_fetch.py -d example.com -o urls.txt -f js
 ✔️ http://example.com/about-us.php - Status: 200 OK 😎
 ✔️ http://example.com/contact.php - Status: 200 OK 😎
 ```
+
+## 🔔 Support Me
+
+If you like this project, feel free to support me with a coffee ☕️ at [BuyMeACoffee](https://buymeacoffee.com/ghost_sec). Your support is greatly appreciated! 🙏
+
